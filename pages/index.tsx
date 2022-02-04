@@ -28,16 +28,16 @@ const Home: NextPage = () => {
           <div className='flex relative -top-16 items-end justify-between'>
             <div className='flex flex-col items-center'>
               <span className='text-sm text-gray-500'>Orders</span>
-              <span className='font-medium font-semibold'>340</span>
+              <span className=' font-semibold'>340</span>
             </div>
             <div className='h-24 w-24 bg-red-500 rounded-full' />
             <div className='flex flex-col items-center'>
               <span className='text-sm text-gray-500'>spent</span>
-              <span className='`font-medium` font-semibold'>$2310</span>
+              <span className=' font-semibold'>$2310</span>
             </div>
           </div>
           <div className='relative  flex flex-col items-center -mt-10 -mb-5'>
-            <span className='text-lg font-medium font-semibold'>Tony Molloy</span>
+            <span className='text-lg  font-semibold'>Tony Molloy</span>
             <span className='text-sm text-gray-500'>미국</span>
            </div>
         </div>
